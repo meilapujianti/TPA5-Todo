@@ -14,9 +14,11 @@
   - Content-Type : Application/json
   - Accept : application/json
 - Body :
+
   ![body-register](./img/body-regis.png)
 
 **Response :**
+
 ![response-register](./img/response-regis.png)
 
 ---
@@ -36,9 +38,11 @@
   - Content-Type : Application/json
   - Accept : application/json
 - Body :
+
   ![body-login](./img/body-login.png)
 
 **Response :**
+
 ![response-login](./img/response-login.png)
 
 ---
@@ -61,9 +65,11 @@
   - Accept : application/json
   - Authorization : bearer [jwt]
 - Body :
+
   ![body-createTodo](./img/body-createTodo.png)
 
 **Response :**
+
 ![response-createTodo](./img/response-createTodo.png)
 
 ---
@@ -78,9 +84,11 @@
   - Content-Type : Application/json
   - Accept : application/json
 - Body :
+
   ![body-updateTodo](./img/body-updateTodo.png)
 
 **Response :**
+
 ![response-updateTodo](./img/response-updateTodo.png)
 
 ---
@@ -97,6 +105,7 @@
   - Authorization : bearer [jwt]
 
 **Response :**
+
 ![response-getDetailTodo](./img/response-getdetailTodo.png)
 
 ---
@@ -113,6 +122,7 @@
   - Authorization : bearer [jwt]
 
 **Response :**
+
 ![response-getAllTodo](./img/response-getallTodo.png)
 
 ---
@@ -129,6 +139,7 @@
   - Authorization : bearer [jwt]
 
 **Response :**
+
 ![response-deleteTodo](./img/response-deleteTodo.png)
 
 ---
@@ -145,4 +156,5 @@
   - Authorization : bearer [jwt]
 
 **Response :**
+
 ![response-deleteAllTodo](./img/response-deleteAllTodo.png)
